@@ -16,14 +16,13 @@ typedef vector<int> vi;
 typedef pair<int,int> pi;
 const int mod = 1e9 + 7;
 const int64_t INF = 2e18;
-const int MAX = 2e9;
-const int N = 1e6 + 5;
 const int ep = 1e-9;
  
 void io(){
    freopen("input.txt", "r", stdin);
    freopen("output.txt", "w", stdout);
 } 
+
 const int MAXN = 205000;
 const int MAXLOG = 22;
 
