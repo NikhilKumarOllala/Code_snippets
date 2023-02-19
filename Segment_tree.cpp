@@ -18,7 +18,7 @@ const int mod = 1e9 + 7;
 const int64_t INF = 2e18;
 const int N = 1e5 + 5;
 const int ep = 1e-9;
- 
+
 void io(){
    freopen("input.txt", "r", stdin);
    freopen("output.txt", "w", stdout);
